@@ -46,15 +46,15 @@ document.writeln("		<td class=\'style2\' style=\'width: 119px\'>9、回复 “13
 document.writeln("		<td class=\'style2\'>免费领取《3Dmax 32/64位软件》</td>");
 document.writeln("	</tr>");
 document.writeln("	<tr>");
-document.writeln("		<td class=\'style2\' style=\'width: 119px\'>10、回复 “590”</td>");
+document.writeln("		<td class=\'style2\' style=\'width: 119px\'>10、回复 “820”</td>");
 document.writeln("		<td class=\'style2\'>免费领取《Maya软件2013-2017》</td>");
 document.writeln("	</tr>");
 document.writeln("	<tr>");
-document.writeln("		<td class=\'style2\' style=\'width: 119px\'>11、回复 “590”</td>");
+document.writeln("		<td class=\'style2\' style=\'width: 119px\'>11、回复 “765”</td>");
 document.writeln("		<td class=\'style2\'>免费领取《SW SolidWorks2017/2016/2015/2014软件》</td>");
 document.writeln("	</tr>");
 document.writeln("	<tr>");
-document.writeln("		<td class=\'style2\' style=\'width: 119px\'>12、回复 “590”</td>");
+document.writeln("		<td class=\'style2\' style=\'width: 119px\'>12、回复 “311”</td>");
 document.writeln("		<td class=\'style2\'>免费领取《Revit 2017/2016/2015/ BIM软件》</td>");
 document.writeln("	</tr>");
 document.writeln("</table>");
